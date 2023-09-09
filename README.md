@@ -11,7 +11,7 @@ The MNIST dataset is a collection of handwritten digits. The task is to classify
 
 ## Neural Network Model
 
-Include the neural network model diagram.
+![output](https://github.com/RuchithaReddy28/mnist-classification/blob/main/3.0.png?raw=true)
 
 ## DESIGN STEPS
 
@@ -46,26 +46,29 @@ Evaluate the model with the testing data
 Fit the model and predict the single input
 
 ## PROGRAM
-
-Include your code here
+```
+Developed By: Akkireddy Ruchitha Reddy
+Register NUmber: 212221230004
+```
 
 ## OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-Include your plot here
+![output](https://github.com/RuchithaReddy28/mnist-classification/blob/main/3.1.png?raw=true)
+![output](https://github.com/RuchithaReddy28/mnist-classification/blob/main/3.2.png?raw=true)
 
 ### Classification Report
 
-Include Classification Report here
+![output](https://github.com/RuchithaReddy28/mnist-classification/blob/main/3.3.png?raw=true)
 
 ### Confusion Matrix
 
-Include confusion matrix here
+![output](https://github.com/RuchithaReddy28/mnist-classification/blob/main/3.4.png?raw=true)
 
 ### New Sample Data Prediction
 
-Include your sample input and output for your hand written images.
-
+![output](https://github.com/RuchithaReddy28/mnist-classification/blob/main/3.5.png?raw=true)
+![output](https://github.com/RuchithaReddy28/mnist-classification/blob/main/3.6.png?raw=true)
 ## RESULT
 A convolutional deep neural network for digit classification and to verify the response for scanned handwritten images is developed sucessfully.
